@@ -1,0 +1,4 @@
+1-Bu bir dosyadır.
+2-Bu satır da dosyanın ikinci satırıdır.
+5
+4
